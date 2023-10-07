@@ -19,3 +19,4 @@ main:app le dice a Uvicorn que ejecute la aplicación FastAPI que se encuentra e
 --reload habilita la recarga automática de la aplicación cuando se realizan cambios en el código.
 
 ## 4. Realiza Solicitudes POST
+## Se recomienda usar la documentación built in de Fast API
